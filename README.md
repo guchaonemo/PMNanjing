@@ -1,5 +1,5 @@
 # PMNanjing
-use command: bash crawler.sh,
+use command: bash crawler.sh &
 
 
 crawler.sh文件里面有个 sleep 120，表示120秒采集一次，
